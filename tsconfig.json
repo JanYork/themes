@@ -1,18 +1,14 @@
 {
-    "compilerOptions": {
-        "target": "ESNext",
-        "module": "ESNext",
-        "noImplicitAny": true,
-        "removeComments": true,
-        "preserveConstEnums": true,
-        "sourceMap": false,
-        "watch": false,
-        "outDir": "./dist"
-    },
-    "include": [
-        "themes.ts"
-    ],
-    "exclude": [
-        "node_modules"
-    ]
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": false,
+    "watch": false,
+    "outDir": "./dist"
+  },
+  "include": ["src/themes.ts"],
+  "exclude": ["node_modules"]
 }
