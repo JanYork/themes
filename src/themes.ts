@@ -23,7 +23,7 @@ export const themes: Array<Theme> = [
   },
   {
     name: 'geek',
-    url: 'https://cdn.jsdelivr.net/gh/awescnb/acnb-theme-geek@latest/dist/geek.iife.js',
+    url: 'https://acnb.gitee.io/acnb-theme-geek/geek.iife.js',
   },
   {
     name: ['acg', 'reacg'],
