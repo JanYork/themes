@@ -5,7 +5,7 @@ export default defineConfig({
     lib: {
       formats: ['es'],
       name: 'themes',
-      entry: './src/themes.ts',
+      entry: './src/index.ts',
     },
   },
 })
