@@ -19,7 +19,7 @@
   ],
   "author": "awescnb",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "vite": "^2.5.0"
   }
 }
